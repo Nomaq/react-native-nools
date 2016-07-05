@@ -1,5 +1,5 @@
 {
-    "name": "nools",
+    "name": "react-native-nools",
     "description": "A rules engine for node",
     "version": "0.4.1",
     "bin": {
@@ -16,7 +16,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@github.com:C2FO/nools.git"
+        "url": "git@github.com:DerayGa/react-native-nools.git"
     },
     "dependencies": {
         "declare.js": "~0.0.3",
